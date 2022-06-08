@@ -1,1 +1,2 @@
-# keyboard_setting
+# About this
+key setting for ergo dash
