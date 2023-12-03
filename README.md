@@ -1,2 +1,2 @@
 # About this
-key setting for ergo dash
+key setting
